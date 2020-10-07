@@ -204,7 +204,7 @@ Configure an on-premises management point with the following client connection m
 |------------------|------------------|
 | Workgroup        | HTTP, HTTPS |
 | AD domain-joined | HTTP, HTTPS |
-| Azure AD-joined  | HTTPS       |
+| Azure AD-joined  | HTTP, HTTPS       |
 | Hybrid-joined    | HTTP, HTTPS |
 
 > [!NOTE]  
